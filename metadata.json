@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FieldFlow - Gestion de RDV Commerciaux",
+  "description": "Une application professionnelle pour la saisie de rendez-vous pour les commerciaux terrain, avec génération de PDF imprimables et export CSV.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
